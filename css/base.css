@@ -1,0 +1,24 @@
+/*index.html*/
+#login {
+  width: 500px;
+  height: 300px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.2),0 10px 10px rgba(0, 0, 0, .2);
+}
+
+.com {
+  float: right;
+  margin: 10px;
+  width: 100px;
+  display: inline-block;
+  padding: 0.3em 1em;
+  text-decoration: none;
+  color: #53B09A;
+  border: solid 2px #53B09A;
+  border-radius: 3px;
+  transition: .4s;
+}
+
+.com:hover {
+  background: #53B09A;
+  color: white;
+}
