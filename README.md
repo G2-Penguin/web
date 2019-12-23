@@ -3,7 +3,7 @@
 users/login_form.html---------loginページ  
 users/index.html--------------ユーザ一覧ページ　
 users/edit.html---------------ユーザ情報変更ページ　
-users/new.html----------------新規ユーザ登録ページ
+users/new.html----------------新規ユーザ登録ページ　
 products/all_index.html-----------商品一覧ページ　
 products/discount_index.html------割引商品一覧ページ　
 products/search.html--------------検索　
